@@ -50,3 +50,10 @@ The project follows a structured machine learning pipeline:
 - **Deployed on AWS**, making it accessible from anywhere.
 - **User-friendly interface** to input weather conditions and receive predictions.
 - **Fast and accurate predictions** based on trained machine learning models.
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Prediction Result
+![Prediction Result](screenshots/mainpage.png)
